@@ -16,15 +16,16 @@ Welcome to my corner of the internet! 🪴
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Business Oriented Tech Stack
 Python • Pandas • NumPy • Scikit-learn • Plotly • Streamlit  
-Tableau • Power BI • SQL (entry level but growing)  
+Tableau • Power BI • SQL (Intermediate)  
 
 ---
 
 ## 🚧 Work in Progress
-My portfolio + structured repositories are under construction!  
-Stay tuned for project uploads, dashboards, and more 🌱  
+My business portfolio + structured repositories are under construction!
+[Get in contect!](mailto:hannia.hdz23@gmail.com)
+
 
 <!-- Insert gif -->
 <p align="center">

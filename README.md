@@ -24,7 +24,7 @@ Tableau • Power BI • SQL (Intermediate)
 
 ## 🚧 Work in Progress
 My business portfolio + structured repositories are under construction!
-[Get in contect!](mailto:hannia.hdz23@gmail.com)
+[Lets connect :D !](https://www.linkedin.com/in/hanniahs/)
 
 
 <!-- Insert gif -->
